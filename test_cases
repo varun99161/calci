@@ -9,7 +9,6 @@ int multiplication(int a,int b);
 float division(int a,int b);
 float power(int a,int b);
 int calculator_operations();
-void sleep(int a);
 
 int main()
 {
